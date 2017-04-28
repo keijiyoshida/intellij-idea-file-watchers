@@ -14,7 +14,7 @@
     </option>
     <option name="outputFromStdout" value="false" />
     <option name="program" value="$GOPATH/bin/goimports" />
-    <option name="scopeName" value="Project Files" />
+    <option name="scopeName" value="Current File" />
     <option name="trackOnlyRoot" value="false" />
     <option name="workingDir" value="" />
     <envs />
@@ -33,7 +33,7 @@
     </option>
     <option name="outputFromStdout" value="false" />
     <option name="program" value="$GOPATH/bin/golint" />
-    <option name="scopeName" value="Project Files" />
+    <option name="scopeName" value="Current File" />
     <option name="trackOnlyRoot" value="false" />
     <option name="workingDir" value="" />
     <envs />
